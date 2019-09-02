@@ -1,0 +1,17 @@
+/*styleing header*/
+.navbar.scrolling-navbar.top-nav-collapse{
+	background-color: #33b5e5 !important;
+}
+.navbar.scrolling-navbar a , div ul li a{
+	color: white !important;
+}
+.mybtn{
+	font-size: 0.6rem !important;
+    padding: 8px !important;
+}
+.pt-3-half {
+padding-top: 1.4rem;
+}
+.table td{
+	padding: 0.5rem;
+}
